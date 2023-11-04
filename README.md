@@ -1,4 +1,4 @@
-# Deep-Learning_Midterm-Project
+# Image Classification with ArcFace Loss Function Deep Learning
 **Summary**
 Here we are training a neural network to classify images from the CIFAR-10 & MNIST dataset using the ArcFace loss function. After training, it assesses the model's accuracy 
 on the test data and provides class-specific accuracy metrics. The code demonstrates a comprehensive machine learning pipeline for image classification.
